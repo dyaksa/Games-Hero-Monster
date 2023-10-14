@@ -1,0 +1,15 @@
+/Users/macbookair/Dev/fundamental/TestProject/bin/Debug/net6.0/TestProject
+/Users/macbookair/Dev/fundamental/TestProject/bin/Debug/net6.0/TestProject.deps.json
+/Users/macbookair/Dev/fundamental/TestProject/bin/Debug/net6.0/TestProject.runtimeconfig.json
+/Users/macbookair/Dev/fundamental/TestProject/bin/Debug/net6.0/TestProject.dll
+/Users/macbookair/Dev/fundamental/TestProject/bin/Debug/net6.0/ref/TestProject.dll
+/Users/macbookair/Dev/fundamental/TestProject/bin/Debug/net6.0/TestProject.pdb
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.csproj.AssemblyReference.cache
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfoInputs.cache
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.AssemblyInfo.cs
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.dll
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/ref/TestProject.dll
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.pdb
+/Users/macbookair/Dev/fundamental/TestProject/obj/Debug/net6.0/TestProject.genruntimeconfig.cache
